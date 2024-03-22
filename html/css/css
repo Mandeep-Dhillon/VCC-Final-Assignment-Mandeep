@@ -1,6 +1,9 @@
 
 {
+    /* Box Sizing */
     box-sizing: border-box;
+
+/* Resetting Default Values */
     margin: 0;
     padding: 0;
     border: 0;
